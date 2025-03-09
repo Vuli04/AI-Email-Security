@@ -1,0 +1,8 @@
+flask
+python-dotenv
+scikit-learn
+joblib
+dnspython
+spfcheck
+dkimpy
+tenacity
